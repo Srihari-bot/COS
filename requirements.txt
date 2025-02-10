@@ -1,0 +1,5 @@
+streamlit
+requests
+mimetypes
+urllib3
+ibm-cloud-sdk-core
